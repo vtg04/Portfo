@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< main
 >>>>>>> 5aed39dd47945f2efbdc18befe3ade2a2629a936
@@ -76,3 +77,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 >>>>>>> master
+=======
+# Portfolio Website
+# Developed by Vinay
+# Copyright 2024
+>>>>>>> 29ffa062d192d94718e8e8484c62b1a3dd8afcd5
