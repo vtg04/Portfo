@@ -1,4 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+<<<<<<< main
+>>>>>>> 5aed39dd47945f2efbdc18befe3ade2a2629a936
 # Portfolio website 
 =======
 # Getting Started with Create React App
